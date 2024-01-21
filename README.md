@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,mysql,postgres,docker,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,mysql,postgres,docker,postman,vscode,figma)](https://skillicons.dev)
