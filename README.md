@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,mysql,postgres,docker,postman,vscode,figma,github)](https://skillicons.dev)
 
-### While Studying
+### I'm studying
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow)](https://skillicons.dev)
