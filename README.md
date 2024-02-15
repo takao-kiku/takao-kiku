@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### I'm studying
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flutter)](https://skillicons.dev)
