@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ### I'm Studying
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flutter)](https://skillicons.dev)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITC-kikuuchi&theme=vue&hide-title=false)
