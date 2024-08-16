@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,mysql,postgres,docker,postman,vscode,figma,github,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,mysql,postgres,docker,postman,vscode,figma,github)](https://skillicons.dev)
 
 ### I'm Studying
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,python,fastapi)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITC-kikuuchi&layout=compact&show_icons=true&theme=vue" />
