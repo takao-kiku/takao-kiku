@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Studying
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,mongodb,react,nextjs,ts,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,tailwindcss)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITC-kikuuchi&layout=compact&show_icons=true&theme=vue" />
