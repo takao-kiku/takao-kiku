@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,python,fastapi,html,css,js,mysql,postgres,docker,postman,vscode,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,fastapi,html,css,js,mysql,postgres,docker,vscode,figma,github)](https://skillicons.dev)
 
 ### I'm Studying
 
