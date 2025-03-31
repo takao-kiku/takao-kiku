@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwindcss)](https://skillicons.dev)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITC-kikuuchi&layout=compact&show_icons=true&theme=vue" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ITC-kikuuchi&theme=vue&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takao-kiku&layout=compact&show_icons=true&theme=vue" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takao-kiku&theme=vue&show_icons=ture" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITC-kikuuchi&theme=vue&hide-title=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takao-kiku&theme=vue&hide-title=false)
